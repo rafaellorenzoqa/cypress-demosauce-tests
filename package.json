@@ -1,0 +1,24 @@
+{
+  "name": "cypress-demosauce-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellorenzoqa/cypress-demosauce-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rafaellorenzoqa/cypress-demosauce-tests/issues"
+  },
+  "homepage": "https://github.com/rafaellorenzoqa/cypress-demosauce-tests#readme",
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  }
+}
